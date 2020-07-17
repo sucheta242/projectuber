@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467647162141",
+    "firebase_url": "https://abcapp-a4f23.firebaseio.com",
+    "project_id": "abcapp-a4f23",
+    "storage_bucket": "abcapp-a4f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467647162141:android:d18f4af1c12206444923f4",
+        "android_client_info": {
+          "package_name": "com.travel.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467647162141-gicre5fvvpp442lekui4rrh03226oami.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travel.abc",
+            "certificate_hash": "cab669f2dedfcbf6fd98096c5b21c08dec14474a"
+          }
+        },
+        {
+          "client_id": "467647162141-28k958456i21u65aodquj3ksg8ptq131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFjADbLcCuxRnGpbK1WmvlNwPU6cSONY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467647162141-28k958456i21u65aodquj3ksg8ptq131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

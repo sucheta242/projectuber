@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#070616</color>
+    <color name="colorPrimaryDark">#070716</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="bottomText">#F0F0F5</color>
+    <color name="rippleEffect">#f816a463</color>
+
+    <color name="btnDriver">#1fbad6</color>
+    <color name="btnCustomer">#070616</color>
+</resources>
